@@ -1,1 +1,37 @@
-Live Server :-  https://abdelrahmangalal200101-cpu.github.io/Starting-Journey-Html-Tables/
+# 🚀 Starting Journey – HTML Tables Project
+
+## 📌 Overview
+
+This project represents the very beginning of my web development journey.
+
+It is a simple static webpage built entirely using HTML Tables to structure the layout and organize content.  
+The goal of this project was to understand how HTML works and how web pages are built from scratch.
+
+🔗 Live Demo:  
+https://abdelrahmangalal200101-cpu.github.io/Starting-Journey-Html-Tables/
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- Table elements (table, thead, tbody, tr, td, th)
+
+---
+
+## 🎯 What I Learned
+
+- Writing clean and structured HTML  
+- Understanding how table elements function  
+- Organizing content without CSS  
+- Deploying a project using GitHub Pages  
+
+---
+
+## 📈 Progress Note
+
+This project marks the starting point of my development journey.
+
+From building simple HTML pages using tables to developing full React applications with APIs and authentication systems, this project reflects the foundation of my growth as a developer.
+
+Every expert was once a beginner — this was my first step 🚀
